@@ -1,0 +1,35 @@
+:root {
+    --clr-bg: #FFFFFF;
+    --clr-surface: #FFFFFF;
+    --clr-surface-hover: #F3ECF6;
+    --clr-border: #EBE2F0;
+    --clr-border-soft: #F3ECF6;
+    --clr-gold: #865A93;
+    --clr-gold-bright: #A77FB2;
+    --clr-accent: #E38B82;
+    --clr-text: #2B1E33;
+    --clr-muted: #7A6A84;
+    --clr-dim: #9C8DA7;
+    --clr-green: #6B9D87;
+    --clr-red: #C57A78;
+    --clr-star: #F5B942;
+    --clr-primary: #865A93;
+    --clr-primary-ink: #5E3F6B;
+    --clr-primary-soft: #A77FB2;
+    --clr-primary-tint: #E9DBEC;
+    --clr-pastel-love: #F4D4D4;
+    --clr-pastel-lav: #E9DBEC;
+    --clr-pastel-sky: #D9EAF7;
+    --clr-pastel-mint: #C9E2E5;
+    --ff-heading: 'Plus Jakarta Sans', system-ui, sans-serif;
+    --ff-body: 'Plus Jakarta Sans', system-ui, sans-serif;
+    --fw-regular: 400; --fw-medium: 500; --fw-semibold: 600; --fw-bold: 700; --fw-black: 800;
+    --fs-xs: 0.75rem; --fs-sm: 0.875rem; --fs-base: 1rem;
+    --fs-lg: 1.125rem; --fs-xl: 1.25rem; --fs-2xl: 1.5rem;
+    --fs-3xl: 2rem; --fs-4xl: 2.75rem; --fs-5xl: 3.5rem;
+    --sp-1:4px;--sp-2:8px;--sp-3:12px;--sp-4:16px;--sp-5:20px;--sp-6:24px;--sp-8:32px;--sp-10:40px;--sp-12:48px;--sp-16:64px;--sp-20:80px;
+    --max-w: 1240px; --max-w-narrow: 760px; --gutter: 24px;
+    --r-sm:6px;--r-md:10px;--r-lg:14px;--r-xl:18px;--r-2xl:24px;--r-full:9999px;
+    --shadow-card: 0 1px 2px rgba(43,30,51,.04), 0 0 0 1px var(--clr-border);
+    --ease: cubic-bezier(0.4,0,0.2,1); --dur: 200ms;
+}
